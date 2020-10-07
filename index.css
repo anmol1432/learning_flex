@@ -1,0 +1,14 @@
+.container,
+.container-1,
+.container-2 {
+  display: flex;
+  border-color: transparent;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+  /* flex-direction: column; */
+}
+div {
+  padding: 10px;
+  border: 2px brown solid;
+}
